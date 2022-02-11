@@ -1,5 +1,5 @@
 # 👾 Hi! I'm Izmael
-I'm a web developer with passion to generative animations exploring mathematical beauty of chaos, order and symmetry.<br>Currently working at [Resume.io](https://github.com/resume-io)
+I'm a web developer with passion to generative animations and animated stuff.<br>Currently working at [Resume.io](https://github.com/resume-io)
 
 Check [my twitter](https://twitter.com/IzmaelMag), [my Instagram](https://www.instagram.com/izmaelmag/) and [my NFTs](https://objkt.com/profile/tz1bRR14Y2pUKi3bz3R1Xib7roAeNnPuD713/created)
 
