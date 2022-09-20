@@ -1,7 +1,7 @@
 # 👾 Hi! I'm Izmael
 I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant](https://variant.net/)
 
-Check [my twitter](https://twitter.com/IzmaelMag), [my Instagram](https://www.instagram.com/izmaelmag/) and [my NFTs](https://objkt.com/profile/tz1bRR14Y2pUKi3bz3R1Xib7roAeNnPuD713/created)
+Check [my twitter](https://twitter.com/izmaelmagomed), [my Instagram](https://www.instagram.com/izmaelmag/) and [my NFTs](https://objkt.com/profile/tz1bRR14Y2pUKi3bz3R1Xib7roAeNnPuD713/created)
 
 ### Experience
 [📄 Resume.io](https://resume.io) – PDF and DOCX documents development, Node.js microservices, UI/UX<br>
