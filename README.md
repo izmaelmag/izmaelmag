@@ -1,10 +1,10 @@
 # 👾 Hi! I'm Izmael
-I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant](https://variant.net/)
+I'm a web developer with passion to procedural graphics and animated stuff<br>Currently working at [Variant Group](https://variant.net/) as a full-stack developer
 
-Check [my twitter](https://twitter.com/izmaelmagomed), [my Instagram](https://www.instagram.com/izmaelmag/) and [my NFTs](https://objkt.com/profile/tz1bRR14Y2pUKi3bz3R1Xib7roAeNnPuD713/created)
+Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https://www.instagram.com/izmaelmag/)
 
 ### Experience
-[🌎 Variant.net](https://variant.net) – Frontend, UI/UX<br>
+[🌎 Variant.net](https://variant.net) – Full-stack SaaS development
 [📄 Resume.io](https://resume.io) – PDF and DOCX documents development, Node.js microservices, UI/UX<br>
 [🍆 Pure.app](https://pure.app/) – Frontend, UI Kits, Adaptivity, Performance, Analytics<br>
 [🎨 CodeCode](https://codecode.ru/) – UI/UX, Websites and services based on Node.js and websockets<br>
