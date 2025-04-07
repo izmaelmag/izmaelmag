@@ -10,4 +10,5 @@ Follow me on [my twitter](https://twitter.com/izmaelmag) and [Instagram](https:/
 [🎨 CodeCode](https://codecode.ru/) – UI/UX, Websites and services based on Node.js and websockets<br>
 [💅 GreatSimple](https://greatsimple.io/) – Design systems and UI Kits, sketch to html/css<br>
 [🐦 Dev Seagulls](https://www.instagram.com/dev_seagulls/) – Created IT community in Makhachkala<br>
+
 👨‍💻 A lot of random web design and frontend freelance since 2013<br>
